@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+__Literally__ is an Xcode source editor extension that helps you turn JSON to Objective-C or Swift literals. 
 
-You can use the [editor on GitHub](https://github.com/akoslowski/literallyapp/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Have you ever loaded JSON from a file to test your `initWithDictionary:` classes? With a literal array or dictionary you can skip JSON parsing and test your code directly.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Privacy Policy
 
-### Markdown
+__Literally__ works locally on your computer and will not transfer your data to any server. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+## Contact
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/akoslowski/literallyapp/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+If you have any questions or doubts please get in touch via literallyapp@dock13.com
