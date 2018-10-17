@@ -8,4 +8,4 @@ If you have any questions or doubts please get in touch via literallyapp@dock13.
 
 ## Trademark Notice and Attribution
 
-_Xcode, Objective-C and Swift are trademarks of Apple Inc., registered in the U.S. and other countries._
+Xcode, Objective-C and Swift are trademarks of Apple Inc., registered in the U.S. and other countries.
