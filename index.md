@@ -5,3 +5,7 @@ Have you ever loaded JSON from a file to test your `initWithDictionary:` classes
 ## Contact
 
 If you have any questions or doubts please get in touch via literallyapp@dock13.com
+
+
+
+_Xcode, Objective-C and Swift are trademarks of Apple Inc., registered in the U.S. and other countries._
